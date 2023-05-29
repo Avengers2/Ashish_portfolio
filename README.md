@@ -1,5 +1,5 @@
 # Ashish_portfolio
-#[ Project 1: Customer Analysis Dashboard ]
+[ Project 1: Customer Analysis Dashboard ]
 
 This is a Descriptive Customer Analysis Dashboard.
 
